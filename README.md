@@ -22,7 +22,7 @@ Using the [ERD](https://github.com/cedoula/Pewlett-Hackard-Analysis/blob/master/
 <br/>
 
 - 90,398 employees or 37.7% of the company's total current employees will be retiring soon.
-- Senior Engineer, Senior Staff and Engineer will be the most impacted positions with respectively 29,414, 28,254 and 14,222 futures retirees, which corresponds to 12.3%, 11.8% and 5.92% of the company's workforce.
+- Senior Engineer, Senior Staff and Engineer will be the most impacted positions with respectively 29,414, 28,254 and 14,222 futures retirees, which correspond to 12.3%, 11.8% and 5.92% of the company's workforce.
 - Only 2 Managers will be retiring soon.\
 It seems that management renewal has been to focus of the company to the detriment of technical positions renewal. <br/><br/>
 
