@@ -37,7 +37,7 @@ Using the [ERD](https://github.com/cedoula/Pewlett-Hackard-Analysis/blob/master/
 <p align="center">Eligible mentors per job title</p><br/>
 
 - There are 1,549 employees eligible to participate in the mentorship program.
-- 294 Senior Engineers and 422 Senior Staff are eligbible.
+- 294 Senior Engineers, 422 Senior Staffs and 395 Engineers are eligbible mentors.
 <br/><br/>
 
 ## Summary
@@ -54,4 +54,4 @@ Using the [ERD](https://github.com/cedoula/Pewlett-Hackard-Analysis/blob/master/
 </p>
 <p align="center">Eligible mentors per department</p><br/>
 
-- Reviewing the criteria to qualify for the mentorship program would be needed to handle the coming "silver tsunami".
+- Reviewing the criteria to qualify for the mentorship program would be needed by the company to be able to prepare for the coming "silver tsunami".
