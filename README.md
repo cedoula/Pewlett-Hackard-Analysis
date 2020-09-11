@@ -7,8 +7,9 @@ For this analysis we will:
 2. identify employees who are eligible to participate in a mentorship program.
 
 ## Resources
-- Data Source: departments.csv, dept_manager.csv, dept_emp.csv, employees.csv, salaries.csv, titles.csv
-- Software: PostgreSQL 11.9, Visual Studio Code 1.48.2
+- Data Source: [departments.csv](https://github.com/cedoula/Pewlett-Hackard-Analysis/blob/master/Data/departments.csv), [dept_manager.csv](https://github.com/cedoula/Pewlett-Hackard-Analysis/blob/master/Data/dept_manager.csv), [dept_emp.csv](https://github.com/cedoula/Pewlett-Hackard-Analysis/blob/master/Data/dept_emp.csv), [employees.csv](https://github.com/cedoula/Pewlett-Hackard-Analysis/blob/master/Data/employees.csv), [salaries.csv](https://github.com/cedoula/Pewlett-Hackard-Analysis/blob/master/Data/salaries.csv), [titles.csv](https://github.com/cedoula/Pewlett-Hackard-Analysis/blob/master/Data/titles.csv)
+- Software: PostgreSQL 11.9, pgAdmin 4\
+Documentation: [PostgreSQL documentation](https://www.postgresql.org/docs/manuals/), [PostgreSQL tutorial](https://www.tutorialspoint.com/postgresql/), [pgAdmin documentation](https://www.pgadmin.org/docs/)
 
 ## Results
 
