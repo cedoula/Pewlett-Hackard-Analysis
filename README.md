@@ -54,4 +54,4 @@ Using the [ERD](https://github.com/cedoula/Pewlett-Hackard-Analysis/blob/master/
 </p>
 <p align="center">Eligible mentors per department</p><br/>
 
-- Reviewing the criteria to qualify for the mentorship program would be needed by the company to be able to prepare for the coming "silver tsunami".
+- Reviewing the criteria to qualify for the mentorship program would be needed by the company to prepare for the coming "silver tsunami".
